@@ -1,0 +1,8 @@
+Parser Hatasi:
+1:1:
+  |
+1 | '(\x
+  | ^
+unexpected '''
+expecting '(', '\', or letter
+
